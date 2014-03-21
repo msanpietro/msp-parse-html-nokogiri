@@ -2,7 +2,7 @@ require "rubygems"
 require "nokogiri"
 require "open-uri"
 
-## Add code to read the stcck symbols from a file 
+## Add code to read the stock symbols from a file 
 
 
 URL1 = 'http://finance.yahoo.com/q?s=AAPL'
